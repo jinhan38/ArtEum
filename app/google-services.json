@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "181783707413",
+    "firebase_url": "https://arteum-7da40.firebaseio.com",
+    "project_id": "arteum-7da40",
+    "storage_bucket": "arteum-7da40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181783707413:android:868bb7b3b8cd066f",
+        "android_client_info": {
+          "package_name": "kr.co.arteum.www.arteum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181783707413-opjvsje0sr1c2q3bkmjmoli4e4r5dd7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.arteum.www.arteum",
+            "certificate_hash": "2a8fc6915439a34451c4acd1ed67f7a4a876c001"
+          }
+        },
+        {
+          "client_id": "181783707413-k8iq2v0c7ga9nkeqjp2vsm11cvbpfdsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0K9jwLdjcQC1daRce2ajHmVx8ZmgI8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181783707413-k8iq2v0c7ga9nkeqjp2vsm11cvbpfdsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

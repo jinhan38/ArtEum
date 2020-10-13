@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="appName">아트이음</string>
+    <string name="ver">ver. 0.026</string>
+    <string name="arteumUrl">http://test.arteum.co.kr</string>
+    <string name="default_notification_channel_id">arteumID</string>
+    <string name="default_notification_channel_name">arteumCH</string>
+
+</resources>
